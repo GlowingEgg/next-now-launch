@@ -22,7 +22,7 @@ export default class MyDocument extends Document {
     return (
       <html>
         <Head>
-          <title>My page</title>
+          <title>Next/Now Launch Site</title>
           {this.props.styleTags}
         </Head>
         <body>
