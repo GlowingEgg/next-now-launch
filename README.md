@@ -1,6 +1,6 @@
 # next-now-starter-pack
 
-A starting point for Next.js apps, deployable with Zeit Now. Uses an Express server.  
+A starting point for Next.js apps, deployable with Zeit Now. Uses an Express server. Works with styled-components out of the box
 
 **To use:**
 - `git clone https://github.com/GlowingEgg/next-now-starter-pack.git` to get the project
