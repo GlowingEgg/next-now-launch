@@ -8,3 +8,5 @@ A starting point for Next.js apps, deployable with Zeit Now. Uses an Express ser
 - `git remote rm origin` to stop pointing to this repo as a remote
 - `npm install` to add all the node_modules
 - refer to `package.json` for the start and build scripts
+
+**There's a router at /api. Changes made here will be hot-reloaded**
